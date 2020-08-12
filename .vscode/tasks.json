@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "ng",
+			"path": "ProAgil-App/",
+			"problemMatcher": [],
+			"label": "npm: ng - ProAgil-App",
+			"detail": "ng"
+		}
+	]
+}
